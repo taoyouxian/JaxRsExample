@@ -13,7 +13,7 @@
         </servlet-class>
         <init-param>
             <param-name>com.sun.jersey.config.property.packages</param-name>
-            <param-value>main.java.com.taomao.example.jaxrs</param-value>
+            <param-value>cn.edu.ruc.iir.example.jaxrs</param-value>
         </init-param>
         <load-on-startup>1</load-on-startup>
     </servlet>

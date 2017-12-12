@@ -7,9 +7,4 @@ Related blog article: [Basic Example of JAX-RS Web Application with Maven and Gl
 mvn clean package
 ```
 
-## Deploying to Glassfish
-```
-mvn embedded-glassfish:run
-```
-
-Go to [http://localhost:8080/jaxrsexample/hello/world](http://localhost:8080/jaxrsexample/hello/world)
+Go to [http://localhost:8080/hello/world](http://localhost:8080/hello/world)
